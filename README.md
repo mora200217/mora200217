@@ -31,8 +31,22 @@ I'm a physics and mechatronics engineering student interested in changing the wo
 
 
 <h1> Interests </h1> 
+<table>
+  <tr>
+    <td width = "60%">
+      <img width = "100%" src = "https://github.com/mora200217/mora200217/blob/main/WhatsApp%20Image%202022-08-18%20at%202.31.11%20PM.jpeg" />   
+    </td>
+    <td> 
+Autonomous serial manipulator robot, able to play a chessmatch, by means of Computer Vision algorithms, Reinforced Learning and Contorl & Trajectory Planning
+    </td>
+  </tr>
+    <tr>
+    <th>
+      Chessbot
+    </th>
+  </tr>
+  </table> 
 
-<img src = "github.com/mora200217/mora200217/WhatsApp Image 2022-08-18 at 2.31.11 PM.jpge" /> 
 
 </ul> 
 <!--
