@@ -30,17 +30,9 @@ I'm a physics and mechatronics engineering student interested in changing the wo
 
 
 
-
-
-
 <h1> Interests </h1> 
 
-<ul> 
-<li> Robotics </li> 
-<li> Computer Vision </li> 
-<li> Automation </li> 
-<li> Machine Learning </li> 
-<li> Scientific Simulations </li> 
+<img src = "github.com/mora200217/mora200217/WhatsApp Image 2022-08-18 at 2.31.11 PM.jpge" /> 
 
 </ul> 
 <!--
