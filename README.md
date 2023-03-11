@@ -45,6 +45,20 @@ Autonomous serial manipulator robot, able to play a chessmatch, by means of Comp
       Chessbot
     </th>
   </tr>
+  
+  <tr>
+    <td width = "60%">
+      <img width = "100%" src = "https://github.com/mora200217/mora200217/blob/main/ezgif-1-f322e576f1.gif" />   
+    </td>
+    <td> 
+ABB IRB 140 Laboratory practices.
+    </td>
+  </tr>
+    <tr>
+    <th>
+      Robotics
+    </th>
+  </tr>
   </table> 
 
 
