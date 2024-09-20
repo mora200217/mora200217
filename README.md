@@ -29,10 +29,12 @@ I'm a physics and mechatronics engineering student interested in changing the wo
 
 
 <h2> Currently learning</h2>
-- ROS2 Mobile Robotics Toolbox and Manipulators (nav2 and Moveit2)
-- Julia for Scientific Programming 
-- Xschem for analog Circuit and IC design
-- CapsuleNet and LQV for symbol recognition
+<ul>
+  <li> ROS2 Mobile Robotics Toolbox and Manipulators (nav2 and Moveit2)</li>
+  <li>Julia for Scientific Programming </li>
+  <li>Xschem for analog Circuit and IC design</li>
+  <li>CapsuleNet and LQV for symbol recognition</li>
+</ul>
 
 <h1> Interests </h1> 
 <table>
