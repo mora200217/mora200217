@@ -2,8 +2,7 @@
 Soy estudiante de Física e Ingeniería Mecatrónica apasionado por la investigación, la robótica y los sistemas autónomos. Me interesa el desarrollo de sistemas mecatrónicos complejos, control distribuido y estimación de estados mediante métodos analíticos y aprendizaje automático. Me gusta combinar creatividad, ingeniería y un toque de humor cuestionable para resolver problemas complejos.
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-<img src="https://github-readme-stats.vercel.app/api?username=mora200217&theme=radical" width="47%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mora200217&layout=compact" width="47%" />
+<img src="https://metrics.lecoq.io/mora200217?template=classic&base.header=0&base.activity=0&languages=1&languages.limit=6&theme=dark" />
 </div>
 
 ---
