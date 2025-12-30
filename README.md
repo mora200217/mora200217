@@ -52,16 +52,38 @@ Soy estudiante de Física e Ingeniería Mecatrónica apasionado por la investiga
 
 ---
 
-## 🌱 Intereses
-- Robótica móvil y manipuladores autónomos  
-- Sistemas mecatrónicos integrados con sensores y actuadores  
-- Control distribuido y optimización de trayectorias  
-- Estimación de estados y filtros de Kalman  
-- Dinámica analítica para robótica: Hamiltonianos y Lagrangianos  
-- Inteligencia artificial aplicada a visión y control  
-- Simulación y modelado de sistemas físicos  
-- Diseño de instrumentos y prototipos innovadores  
-- Investigación en telemetría y experimentación espacial educativa  
+# 🌱 Intereses
+
+- **Robótica móvil y manipuladores autónomos**  
+  Diseño, modelado y control de robots móviles terrestres y brazos robóticos, con énfasis en navegación autónoma, planificación de movimiento y manipulación en entornos dinámicos.
+
+- **Sistemas mecatrónicos integrados**  
+  Desarrollo de sistemas complejos que integran sensores, actuadores, electrónica de potencia y software embebido, priorizando arquitecturas modulares, robustas y escalables.
+
+- **Control distribuido y optimización de trayectorias**  
+  Implementación de estrategias de control distribuido y cooperativo, optimización energética y temporal de trayectorias, y coordinación de sistemas multi-agente.
+
+- **Estimación de estados y fusión sensórica**  
+  Estudio e implementación de **Filtros de Kalman lineales y extendidos (EKF)**, técnicas de **fusión sensórica multisensor**, y estimación robusta de estados en sistemas no lineales con ruido e incertidumbre.
+
+- **Teoría de juegos evolutivos y poblacionales aplicada al control**  
+  Aplicación de **teoría de juegos poblacionales evolutivos** para la toma de decisiones distribuida, consenso, cooperación-competencia y adaptación dinámica en sistemas autónomos y robótica multi-agente.
+
+- **Dinámica analítica para robótica**  
+  Modelado dinámico avanzado mediante formulaciones **Lagrangianas y Hamiltonianas**, análisis de estabilidad, conservación de energía y diseño de controladores basados en modelos físicos.
+
+- **Inteligencia artificial aplicada a visión y control**  
+  Uso de aprendizaje automático y profundo para percepción visual, estimación de estados, control adaptativo y aprendizaje por refuerzo en sistemas robóticos.
+
+- **Simulación y modelado de sistemas físicos**  
+  Simulación de sistemas mecánicos, eléctricos y dinámicos mediante modelos matemáticos y numéricos para validación de controladores y prototipos virtuales.
+
+- **Diseño de instrumentos y prototipos innovadores**  
+  Desarrollo de hardware experimental, instrumentación personalizada y prototipado rápido orientado a investigación, docencia y aplicaciones reales.
+
+- **Telemetría y sistemas espaciales educativos**  
+  Investigación en telemetría, adquisición de datos y sistemas embebidos para **CanSat y CubeSat**, con énfasis en validación experimental y análisis de datos.
+
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
 <img src="https://github.com/mora200217/mora200217/blob/main/WhatsApp%20Image%202022-08-18%20at%202.31.11%20PM.jpeg" width="40%" />
